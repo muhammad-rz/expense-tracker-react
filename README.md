@@ -1,6 +1,6 @@
 # Expense Tracker (React)
 
-This is a simple expense tracker with React. It uses functional components with hooks and the context API
+This is a simple expense tracker with React. It uses functional components with React Hooks (UseState, UseReducer, useContext)
 
 ## Usage
 ```
